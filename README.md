@@ -1,4 +1,4 @@
-# Data Science Bootcamp 10
+# Data Science with Ad'Toy
 My data science and analytics projects
 
 1. R programming

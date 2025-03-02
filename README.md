@@ -1,12 +1,13 @@
-# Data Science Bootcamp 10 with AD'Toy
+# Data Science Bootcamp 10
 My data science and analytics projects
 
-All Learning Programs.
+## My Learning Programs
 
-1. SQL
-2. R
-3. Looker studio
-4. Python
+1. Spreadsheet (Google sheet)
+2. SQL
+3. R programming
+4. Looker studio
+5. Python
 
 ## My personal projects
 
@@ -20,4 +21,4 @@ All Learning Programs.
 Reach out to me at suphachok02762@gmail.com
 
 ## Image
-![deadpool](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftowards-data-science%2Fwhat-coding-languages-do-i-need-to-know-for-a-career-in-analytics-595887deadbd&psig=AOvVaw1EFiHMTGe9BWll72GRyxyA&ust=1740971062187000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDN3e206osDFQAAAAAdAAAAABAE)
+![deadpool](https://i.ytimg.com/vi/ImQ4TnqMUGI/maxresdefault.jpg)

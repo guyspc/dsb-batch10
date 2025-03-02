@@ -7,10 +7,10 @@ My data science and analytics projects
 2. SQL churn analysis
 3. R programming - Pao Ying Chub
 4. Looker GA4 Dashboard
-5. Linear Regression Model using caret
+5. Linear Regression Model using Caret
 
 ## Contact Me
-reach out to me at suphachok02762@gmail.com
+Reach out to me at suphachok02762@gmail.com
 
 ## Image
 ![deadpool](https://i.ytimg.com/vi/ImQ4TnqMUGI/maxresdefault.jpg)
